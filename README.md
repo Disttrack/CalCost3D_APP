@@ -60,5 +60,9 @@ Este proyecto está licenciado bajo la Licencia GNUv3 - ver el archivo [LICENSE]
 - Telegram: [@disttrack3d](https://t.me/disttrack3d)
 - Instagram: [@disttrack3d](https://www.instagram.com/disttrack3d/)
 
+☕ Apoya el Proyecto
+
+Si te gusta este proyecto y quieres apoyar su desarrollo, puedes hacer una donación a través de Ko-fi: [Disttrack3D](https://ko-fi.com/disttrack3d)
+
 ---
 Desarrollado con ❤️ para la comunidad de impresión 3D
